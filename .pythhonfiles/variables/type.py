@@ -1,0 +1,10 @@
+print(type("pavan"))
+print(type(567))
+print(type(10.67))
+print(type(5+7j))
+listnum=[1,2,3,4,5]
+print(type(listnum))
+triplenum=(1,2,3,4,5)
+print(type(triplenum))
+dict={1:'pavan',2:'ls',3:'pavan',4:'num',5:'mali'}
+print(type(dict))

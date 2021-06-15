@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1623438688,,"wq"
+|2,0,1623781103,,"wq"
 :21
 |2,0,1623435628,,"21"
 :wx
@@ -29,20 +29,20 @@
 # Registers:
 
 # File marks:
-'0  4  5  ~/.pythhonfiles/variables/delvariable.py
-|4,48,4,5,1623438688,"~/.pythhonfiles/variables/delvariable.py"
-'1  5  9  ~/.pythhonfiles/variables/localvariables.py
-|4,49,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
-'2  5  9  ~/.pythhonfiles/variables/localvariables.py
-|4,50,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
-'3  7  9  ~/.pythhonfiles/variables/localvariables.py
-|4,51,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
-'4  7  9  ~/.pythhonfiles/variables/localvariables.py
-|4,52,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
-'5  5  0  ~/.pythhonfiles/variables/localvariables.py
-|4,53,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
-'6  5  0  ~/.pythhonfiles/variables/localvariables.py
-|4,54,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+'0  3  36  ~/.pythonfiles/shell.sh
+|4,48,3,36,1623781103,"~/.pythonfiles/shell.sh"
+'1  1  4  ~/.pythonfiles/operators/shell.sh
+|4,49,1,4,1623780763,"~/.pythonfiles/operators/shell.sh"
+'2  4  5  ~/.pythhonfiles/variables/delvariable.py
+|4,50,4,5,1623438688,"~/.pythhonfiles/variables/delvariable.py"
+'3  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,51,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+'4  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,52,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+'5  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,53,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+'6  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,54,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
 '7  5  0  ~/.pythhonfiles/variables/localvariables.py
 |4,55,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
 '8  5  0  ~/.pythhonfiles/variables/localvariables.py
@@ -51,8 +51,28 @@
 |4,57,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
 
 # Jumplist (newest first):
+-'  3  36  ~/.pythonfiles/shell.sh
+|4,39,3,36,1623781103,"~/.pythonfiles/shell.sh"
+-'  1  0  ~/.pythonfiles/shell.sh
+|4,39,1,0,1623781080,"~/.pythonfiles/shell.sh"
+-'  1  4  ~/.pythonfiles/operators/shell.sh
+|4,39,1,4,1623780763,"~/.pythonfiles/operators/shell.sh"
+-'  1  4  ~/.pythonfiles/operators/shell.sh
+|4,39,1,4,1623780763,"~/.pythonfiles/operators/shell.sh"
 -'  4  5  ~/.pythhonfiles/variables/delvariable.py
 |4,39,4,5,1623438688,"~/.pythhonfiles/variables/delvariable.py"
+-'  4  5  ~/.pythhonfiles/variables/delvariable.py
+|4,39,4,5,1623438688,"~/.pythhonfiles/variables/delvariable.py"
+-'  4  5  ~/.pythhonfiles/variables/delvariable.py
+|4,39,4,5,1623438688,"~/.pythhonfiles/variables/delvariable.py"
+-'  4  5  ~/.pythhonfiles/variables/delvariable.py
+|4,39,4,5,1623438688,"~/.pythhonfiles/variables/delvariable.py"
+-'  1  0  ~/.pythhonfiles/variables/delvariable.py
+|4,39,1,0,1623438636,"~/.pythhonfiles/variables/delvariable.py"
+-'  1  0  ~/.pythhonfiles/variables/delvariable.py
+|4,39,1,0,1623438636,"~/.pythhonfiles/variables/delvariable.py"
+-'  1  0  ~/.pythhonfiles/variables/delvariable.py
+|4,39,1,0,1623438636,"~/.pythhonfiles/variables/delvariable.py"
 -'  1  0  ~/.pythhonfiles/variables/delvariable.py
 |4,39,1,0,1623438636,"~/.pythhonfiles/variables/delvariable.py"
 -'  5  9  ~/.pythhonfiles/variables/localvariables.py
@@ -60,6 +80,30 @@
 -'  5  9  ~/.pythhonfiles/variables/localvariables.py
 |4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438565,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  9  ~/.pythhonfiles/variables/localvariables.py
 |4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  9  ~/.pythhonfiles/variables/localvariables.py
 |4,39,5,9,1623438481,"~/.pythhonfiles/variables/localvariables.py"
@@ -71,6 +115,42 @@
 |4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
 -'  7  9  ~/.pythhonfiles/variables/localvariables.py
 |4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  7  9  ~/.pythhonfiles/variables/localvariables.py
+|4,39,7,9,1623438444,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  0  ~/.pythhonfiles/variables/localvariables.py
 |4,39,5,0,1623438397,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  0  ~/.pythhonfiles/variables/localvariables.py
@@ -79,6 +159,30 @@
 |4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  0  ~/.pythhonfiles/variables/localvariables.py
 |4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438377,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
+-'  5  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  0  ~/.pythhonfiles/variables/localvariables.py
 |4,39,5,0,1623438340,"~/.pythhonfiles/variables/localvariables.py"
 -'  5  0  ~/.pythhonfiles/variables/localvariables.py
@@ -103,156 +207,63 @@
 |4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
 -'  1  0  ~/.pythhonfiles/variables/localvariables.py
 |4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  1  87  ~/.pythhonfiles/variables/globalvariable.py
-|4,39,1,87,1623438267,"~/.pythhonfiles/variables/globalvariable.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
--'  4  6  ~/.pythhonfiles/variables.py
-|4,39,4,6,1623435873,"~/.pythhonfiles/variables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
+-'  1  0  ~/.pythhonfiles/variables/localvariables.py
+|4,39,1,0,1623438283,"~/.pythhonfiles/variables/localvariables.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.pythonfiles/shell.sh
+	*	1623781102	0
+	"	3	36
+	^	3	37
+	.	3	37
+	+	3	37
+
+> ~/.pythonfiles/operators/shell.sh
+	*	1623780760	0
+	"	1	4
 
 > ~/.pythhonfiles/variables/delvariable.py
 	*	1623438686	0

@@ -677,3 +677,25 @@ cd list/
 ls
 #1623748002
 nano list.py 
+#1623834351
+ls -al
+#1623852842
+ls -al
+#1623852865
+cd .pythonfiles/
+#1623852869
+ls -al
+#1623852885
+mkdir functions
+#1623852894
+ls -al
+#1623855583
+cd variables/
+#1623855585
+ls
+#1623855589
+cd ..
+#1623855595
+cd functions/
+#1623855607
+ls -al

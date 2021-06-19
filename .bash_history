@@ -721,3 +721,131 @@ nano return.py
 python3 return.py 
 #1623996856
 nano return.py 
+#1624082526
+sudo systemctl isolate graphical
+#1624082536
+ls
+#1624082552
+./ shell.sh 
+#1624082568
+source  shell.sh 
+#1624083264
+ls -al
+#1624083268
+cd .pythonfiles/
+#1624083270
+ls -al
+#1624083276
+cd operators/
+#1624083277
+ls
+#1624083283
+ls -alt
+#1624084355
+cd \
+#1624084362
+cd
+#1624084367
+cd ~
+#1624084371
+cd /
+#1624084383
+cd .py
+#1624084393
+cd .python
+#1624084403
+ld -al
+#1624084406
+ls -al
+#1624084414
+cd 
+#1624084417
+ls
+#1624084428
+home
+#1624084443
+cd bin
+#1624084455
+cd home
+#1624084472
+pwd
+#1624084478
+cd
+#1624084481
+ls -al
+#1624084484
+/
+#1624084487
+ls -al
+#1624084494
+/
+#1624084496
+cd /
+#1624084500
+ls -al
+#1624084504
+cd ~
+#1624084508
+ls -al
+#1624084626
+cd .pythonfiles/
+#1624084629
+ls -al
+#1624084672
+mkdir checkstatements
+#1624084681
+cd checkstatements/
+#1624084683
+ls -al
+#1624084752
+touch if.py  if_else.py   elif.py  
+#1624084758
+cd ..
+#1624084770
+mkdir loops
+#1624085053
+cd statements/
+#1624085057
+ls -al
+#1624085069
+cd ..
+#1624085072
+ls -al
+#1624085088
+rm -rf statements/
+#1624085092
+cd checkstatements/
+#1624085094
+ls -al
+#1624085119
+nano if.py 
+#1624086156
+py  if.py 
+#1624086169
+py if.py 
+#1624086182
+python3 if.py 
+#1624086195
+py if.py 
+#1624086202
+nano if.py 
+#1624086225
+python3 if.py 
+#1624086234
+nano if.py 
+#1624086290
+python3 if.py 
+#1624086301
+nano if.py 
+#1624086308
+python3 if.py 
+#1624086336
+nano if.py 
+#1624086480
+python3 if.py 
+#1624086504
+nano if.py 
+#1624086822
+python3 if.py 
+#1624086841
+ls -al

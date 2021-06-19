@@ -699,3 +699,25 @@ cd ..
 cd functions/
 #1623855607
 ls -al
+#1623996674
+ls -alk
+#1623996694
+cd .pythonfiles/
+#1623996696
+ls -0al
+#1623996700
+ls -al
+#1623996704
+cd functions/
+#1623996707
+ls -al
+#1623996722
+nano function_syntax.py 
+#1623996768
+python3 function_syntax.py 
+#1623996788
+nano return.py 
+#1623996844
+python3 return.py 
+#1623996856
+nano return.py 

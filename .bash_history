@@ -1,64 +1,3 @@
-ls -al
-useradd lpu
-sudo useradd lpu
-passwd lpu
-sudo passwd lpu
-grep 
-apt install update
-sudo apt install update
-ipcondig
-ipconfig
-nmap
-sudo apt instll namp
-sudo apt instll nmap
-sudo apt install nmap
-sudo -i
-ls -altr
-ls ialru
-ls -alru
-ls -li
-ls -lai
-docker
-sudo apt install docker.io
-visudo apt install docker.io
-sudo -f docker
-ls -altr
-mkdir shellscripts
-ls -al
-chmod 711 shellscripts/
-ls -al
-chmod 744 shellscripts/
-ls -al
-chmod 711 shellscripts/
-ls -al
-cd shellscripts/
-vi listing.sh
-.\listing.sh
-ls -al
-source listing.sh 
-pwd
-cd ..
-pwd
-source  /home/pavan/shellscripts/listing.sh
-vi /home/pavan/shellscripts/listing.sh
-source  /home/pavan/shellscripts/listing.sh
-sql
-sudo apt install parallel
-sudo apt install uodate
-sudo apt install update
-sudo apt install upgrade
-ping google.com -c 2
-lsb_release -a
-sudo apt update && sudo apt upgrade
-sudo apt update
-sudo apt upgrade
-sudo reboot
-sudo do-release-upgrade
-sudo vim /etc/update-manager/release-upgrades
-ls -al
-sudo
-man sudo
-sudo apt updatee
 sudo apt update
 gcc
 sudo apt install gcc
@@ -848,4 +787,150 @@ nano if.py
 #1624086822
 python3 if.py 
 #1624086841
+ls -al
+#1624105440
+ls
+#1624105444
+ls -al
+#1624105449
+cd .pythonfiles/
+#1624105453
+ls -al
+#1624105459
+cd comments/
+#1624105464
+ls -al
+#1624105498
+touch docstringscomments.py
+#1624105503
+ls -al
+#1624108655
+nano docstringscomments.py 
+#1624108861
+py  docstringscomments.py 
+#1624108885
+alias py="python3"
+#1624108887
+py  docstringscomments.py 
+#1624108901
+nano docstringscomments.py 
+#1624108933
+py  docstringscomments.py 
+#1624108949
+nano docstringscomments.py 
+#1624108988
+py  docstringscomments.py 
+#1624108998
+nano docstringscomments.py 
+#1624109037
+py  docstringscomments.py 
+#1624109069
+nano docstringscomments.py 
+#1624109099
+nano docstringscomments.py 
+#1624109144
+py  docstringscomments.py 
+#1624109152
+nano docstringscomments.py 
+#1624109230
+py  docstringscomments.py 
+#1624109236
+nano docstringscomments.py 
+#1624109293
+py  docstringscomments.py 
+#1624110063
+nano docstringscomments.py 
+#1624110152
+nano docstringscomments.py 
+#1624110157
+py  docstringscomments.py 
+#1624110321
+nano docstringscomments.py 
+#1624110412
+py  docstringscomments.py 
+#1624110449
+cd ..
+#1624110452
+ls -al
+#1624110463
+cd checkstatements/
+#1624110467
+ls -al
+#1624110485
+nano if_else.py 
+#1624110616
+py if_else.py 
+#1624110641
+nano if_else.py 
+#1624110649
+py if_else.py 
+#1624110656
+py if_else.py 
+#1624110710
+nano if_else.py 
+#1624110847
+py if_else.py 
+#1624110875
+nano elif.py 
+#1624111529
+py elif.py 
+#1624111551
+nano elif.py 
+#1624111678
+py elif.py 
+#1624111732
+cd loops
+#1624111739
+cd ..
+#1624111743
+cd loops
+#1624111759
+mkdir forloop
+#1624111778
+mkdir whileloop
+#1624111786
+mkdir do_whileloop
+#1624111826
+cd ..
+#1624111841
+mkdir files
+#1624111865
+mkdir modules
+#1624111869
+ls -altr
+#1624111875
+ls -al
+#1624112144
+cd modules/
+#1624112205
+touch modules.py from_modules.py
+#1624112223
+cd ..
+#1624112243
+mkdir dateandtime_module
+#1624112248
+cd
+#1624112255
+nano shell.sh 
+#1624112279
+./shell.sh 
+#1624112291
+sudo ./shell.sh 
+#1624112308
+sudo  source shell.sh 
+#1624112317
+source shell.sh 
+#1624112448
+source shell.sh 
+#1624112484
+cd .pythonfiles/
+#1624112487
+ls -al
+#1624112525
+cd dateandtime_module/
+#1624112530
+ls -al
+#1624112535
+cd .
+#1624117702
 ls -al

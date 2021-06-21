@@ -1,33 +1,3 @@
-sudo apt update
-gcc
-sudo apt install gcc
-ls
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-python3 type.py
-vi type.py
-vi variables.py
-python3 variables.py 
-vi variables.py
-python3 variables.py 
-vi variables.py
-mkdir variables
-cd variables.py variables/
-man mv
-mv variables.py variables
 ls
 ls -al
 cd varia
@@ -934,3 +904,63 @@ ls -al
 cd .
 #1624117702
 ls -al
+#1624205404
+ls -al
+#1624205412
+cd .pythonfiles/
+#1624205416
+ls -al
+#1624205446
+cd datatypes/
+#1624205448
+ls -al
+#1624205465
+cd ..
+#1624205475
+ls -al
+#1624205486
+cd checkstatements/
+#1624205489
+ls -al
+#1624205504
+py if.PY
+#1624205528
+python3  if.PY
+#1624205558
+python3 if.py
+#1624205564
+23
+#1624205567
+ls -al
+#1624205571
+cd ..
+#1624205575
+ls -al
+#1624205592
+cd operators/
+#1624205597
+ls -al
+#1624205623
+python3 Assignment_Operators.py 
+#1624205629
+python3 Assignment_Operators.py 
+#1624205647
+python3 Arithmetic_operators.py 
+#1624205658
+ls -al
+#1624205680
+nano Assignment_Operators.py 
+#1624205796
+python3 Arithmetic_operators.py ls -0al
+#1624205800
+ls -0al
+#1624205803
+cd 
+#1624206017
+ls -al
+#1624206021
+ls
+#1624206042
+nano shell.sh 
+#1624206098
+source shell.sh 

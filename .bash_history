@@ -1,94 +1,3 @@
-ls
-ls -al
-cd varia
-cd  variables/
-ls
-vi globalvariable.py
-vi localvariables.py
-python3localvariables.py
-python3 localvariables.py
-vi localvariables.py
-python3 localvariables.py
-vi localvariables.py
-python3 localvariables.py
-vi localvariables.py
-python3 localvariables.py
-vi localvariables.py
-
-python3 delvariable.py 
-nano delvariable.py 
-python3 delvariable.py 
-cd ..
-mkdir datatypes
-cd datatypes/
-ls
-nano example.py
-python3 example.py 
-mv example.py  typefunction.py
-ls
-exit
-ls
-ls -a
-ls -al
-cd .pythhonfiles/
-ls
-#1623477198
-ls -a
-#1623477205
-cd .pythhonfiles/
-#1623477232
-ls
-#1623477251
-mv type.py variables/
-#1623477259
-ls
-#1623477267
-cd variables/
-#1623477269
-ls
-#1623477274
-ls -L
-#1623477281
-ls -al
-#1623477287
-ls -alu
-#1623477291
-ls -ali
-#1623477342
-nano type.py 
-#1623477445
-python3 type.py
-#1623477456
-nano type.py 
-#1623477468
-python3 type.py
-#1623477478
-nano type.py 
-#1623477495
-python3 type.py
-#1623477498
-nano type.py 
-#1623477539
-python3 type.py
-#1623477753
-nano type.py 
-#1623477888
-python3 type.py
-#1623477939
-nano type.py 
-#1623478068
-python3 type.py
-#1623478279
-nano type.py 
-#1623478294
-python3 type.py
-#1623478320
-nano type.py 
-#1623478374
-python3 type.py
-#1623478406
-nano type.py 
-#1623478460
 python3 type.py
 #1623478472
 nano type.py 
@@ -964,3 +873,127 @@ ls
 nano shell.sh 
 #1624206098
 source shell.sh 
+#1624244516
+ls -al
+#1624244526
+cd .pythonfiles/
+#1624244529
+ls -al
+#1624244534
+cd files
+#1624244537
+lsd -al
+#1624244542
+\ls -al
+#1624245936
+ls -al
+#1624245987
+touch opening_file_and_closing_file.py
+#1624245995
+nano opening_file_and_closing_file.py 
+#1624246116
+python3 opening_file_and_closing_file.py 
+#1624246145
+nano opening_file_and_closing_file.py 
+#1624246372
+python3 opening_file_and_closing_file.py 
+#1624246379
+ls -al
+#1624246386
+rm -rf testfile.txt 
+#1624246393
+nano opening_file_and_closing_file.py 
+#1624246530
+python3 opening_file_and_closing_file.py 
+#1624246541
+python3 opening_file_and_closing_file.py 
+#1624246545
+nano opening_file_and_closing_file.py 
+#1624246608
+python3 opening_file_and_closing_file.py 
+#1624246675
+nano opening_file_and_closing_file.py 
+#1624246860
+touch filetesting.py
+#1624246862
+ls -al
+#1624246888
+nano filetesting.py 
+#1624247076
+python3  filetesting.py 
+#1624247079
+ls -al
+#1624247088
+python3  filetesting.py 
+#1624247090
+ls -al
+#1624247097
+ls -al
+#1624247103
+cls
+#1624247108
+clear
+#1624247115
+ls -al
+#1624247188
+nano filetesting.py 
+#1624247346
+history
+#1624247356
+ls -al
+#1624247364
+nano opening_file_and_closing_file.py 
+#1624247381
+nano filetesting.py 
+#1624247691
+ls -al
+#1624247706
+touch file.py
+#1624247723
+nano file.py 
+#1624247789
+python3 file.py
+#1624247798
+nano file.py 
+#1624247815
+python3 file.py
+#1624247851
+nano filetesting.py 
+#1624250493
+ckdlj
+#1624250500
+cd 
+#1624250513
+source shell.sh 
+#1624281120
+;ls
+#1624281122
+ls -al
+#1624281132
+cvd .pythonfiles/
+#1624281138
+cd .pythonfiles/
+#1624281141
+ls -al
+#1624281150
+ls 
+#1624281160
+cd 
+#1624281162
+ls
+#1624281181
+ls -al
+#1624281194
+cd .pythonfiles/
+#1624281197
+ls -al
+#1624281211
+cd operators/
+#1624281214
+ls -al
+#1624281240
+nano Arithmetic_operators.py 
+#1624281259
+nano Assignment_Operators.py 
+#1624281287
+python3  Assignment_Operators.py 

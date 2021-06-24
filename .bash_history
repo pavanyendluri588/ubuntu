@@ -1,575 +1,3 @@
-python3 type.py
-#1623478472
-nano type.py 
-#1623478499
-python3 type.py
-#1623478682
-ls
-#1623478768
-cd ..
-#1623478817
-ls -al
-#1623478839
-mkdir basic
-#1623478855
-mv helloworld.py  basic
-#1623478895
-ls
-#1623478921
-cd basic
-#1623478925
-ls
-#1623478940
-python helloworld.py 
-#1623478948
-python3 helloworld.py 
-#1623479258
-ls
-#1623479285
-cd ..
-#1623479382
-ls
-#1623479392
-cd datatypes/
-#1623479500
-git
-#1623479512
-apt install git
-#1623479525
-sudo apt install git
-#1623479542
-git
-#1623479625
-git status
-#1623479654
-ls
-#1623479667
-git add typefunction.py 
-#1623479836
-man git
-#1623480038
-cd desktop
-#1623480061
-cd
-#1623480069
-git init
-#1623480337
-git remote add origin "https://github.com/P123pp/ubuntu.git"
-#1623480395
-git remote -v
-#1623480414
-git add .
-#1623480490
-git commit -m "this is my first commit"
-#1623480590
-
-#1623480733
-sudo git commit -m "this is my first commit"
-#1623480857
-git push origin master
-#1623481116
-sudo git commit -m "this is my first commit"
-#1623481248
-apt install update
-#1623481256
-sudo apt install update
-#1623481494
-ls
-#1623481504
-cd .pythhonfiles/
-#1623481507
-ls
-#1623481520
-cd datatypes/
-#1623481523
-ls
-#1623481539
-mkdir numeric
-#1623481545
-cd numeric/
-#1623481597
-ls
-#1623481680
-touch int.py complex.py float.py
-#1623481739
-ls
-#1623481765
-git update
-#1623481781
-update-ref
-#1623481791
-sudo git commit -m "this is my first commit"
-#1623481812
-sudo git add commit -m "this is my first commit"
-#1623482157
-cd
-#1623482161
-git add .
-#1623482208
-git status
-#1623482309
-git commit -m "second upload"
-#1623482318
-sudo git commit -m "second upload"
-#1623482365
-git  status
-#1623482703
-git push origin master
-#1623482930
-git  status
-#1623483030
-HISTTIMEFORMAT="%T/%d/%m/%y"
-#1623484272
-echo 'eport HISTTIMEFORMAT="%T/%d/%m/%y"' >> ~/.bash_profile
-#1623484301
-.~/.bash_profile
-#1623484339
-. ~/.bash_profile
-#1623484351
-source  ~/.bash_profile
-#1623484367
-echo 'export HISTTIMEFORMAT="%T/%d/%m/%y"' >> ~/.bash_profile
-#1623484372
-source  ~/.bash_profile
-#1623484396
-nano  ~/.bash_profile
-#1623484415
-source  ~/.bash_profile
-#1623484422
-history
-#1623484428
-nano  ~/.bash_profile
-#1623484452
-history
-#1623486734
-ls
-#1623486748
-upadte
-#1623486756
-update
-#1623486771
-apt install upgrade
-#1623486777
-sudo apt install upgrade
-#1623486790
-sudo apt install update
-#1623486795
-java
-#1623486803
-gcc
-#1623486910
-sudo apt-get install git
-#1623486921
-who am i
-#1623486927
-whoami
-#1623486935
-username
-#1623488443
-ls
-#1623488448
-ls -al
-#1623488491
-nano .bash_profile
-#1623488507
-ls -altrs
-#1623488729
-cd .pythhonfiles/
-#1623488731
-ls
-#1623488736
-cd datatypes/
-#1623488741
-ls
-#1623488760
-mkdir sequencetype
-#1623488764
-cd sequencetype/
-#1623488797
-touch string.py list.py triple.py
-#1623488808
-nano stri
-#1623488814
-ls
-#1623488826
-nano string.py 
-#1623489053
-python3 string.py 
-#1623489064
-nano string.py 
-#1623489228
-python3 string.py 
-#1623489281
-nano string.py 
-#1623490951
-python3 string.py 
-#1623491126
-nano string.py 
-#1623491219
-python3 string.py 
-#1623491488
-cls
-#1623491497
-clear
-#1623491547
-ls
-#1623567623
-hisstory
-#1623567630
-history
-#1623567681
-nano .bash_profile 
-#1623567722
-exit
-#1623567729
-history
-#1623567753
-ls
-#1623567758
-ls -a
-#1623567761
-ls -al
-#1623567771
-ls -alish
-#1623567789
-.pythhonfiles/
-#1623567797
-cd .pythhonfiles/
-#1623567917
-history
-#1623567934
-apt install update
-#1623567942
-sudo apt install update
-#1623568299
-python3
-#1623568327
-ls -al
-#1623568336
-cd .pythhonfiles/
-#1623568338
-ls
-#1623568357
-cd datatypes/
-#1623568359
-ls
-#1623568376
-cd numeric/
-#1623568379
-ls
-#1623568392
-python3 int.py
-#1623568401
-cd .
-#1623568405
-cd ..
-#1623568418
-cd sequencetype/ls
-#1623568443
-ls
-#1623568450
-ls -al
-#1623568459
-cd sequencetype/
-#1623568464
-ls
-#1623568477
-oython3 string.py 
-#1623568492
-python3 string.py 
-#1623568525
-python3 triple.py 
-#1623568549
-nano triple.py 
-#1623568687
-python3 triple.py 
-#1623568723
-nano triple.py 
-#1623569233
-python3 triple.py 
-#1623569242
-python3 triple.py 
-#1623569256
-python3 triple.py 
-#1623569261
-nano triple.py 
-#1623569279
-nano list.py 
-#1623569839
-nano list.py 
-#1623569853
-python3 list.py 
-#1623570336
-ls
-#1623570346
-ls -a
-#1623570353
-ls -al
-#1623570369
-cd __pycache__/
-#1623570372
-ls
-#1623570389
-python3 string.cpython-38.pyc 
-#1623570408
-cd ..
-#1623570414
-cd ..
-#1623570443
-ls
-#1623570448
-cd sequencetype/
-#1623570450
-ls
-#1623570469
-python3 string.py 
-#1623570499
-cd sequencetype/
-#1623570525
-ls
-#1623570541
-rm __pycache__/
-#1623570558
-rm -f  __pycache__/
-#1623570584
-rmdir  -f  __pycache__/
-#1623570604
-rmdir  __pycache__/
-#1623571099
-rm -f  __pycache__/clear
-#1623571109
-clear
-#1623571123
-rm  __pycache__/
-#1623571135
-rm  -rf __pycache__/
-#1623571140
-ls
-#1623604517
-ls
-#1623604526
-ls  -al
-#1623639574
-$ echo "$PS1"
-#1623639582
-echo "$PS1"
-#1623639596
-sudo echo "$PS1"
-#1623639611
-$ printf "%s\n" "$PS1"
-#1623639617
-printf "%s\n" "$PS1"
-#1623639628
-sudo printf "%s\n" "$PS1"
-#1623639638
-$ echo $PS1
-#1623639644
-sudo  echo $PS1
-#1623639656
-\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\u@\h:\w\$
-#1623639670
-oldps1="$PS1"
-#1623639677
-PS1="$oldps1"
-#1623639685
-$ export PS1="[\\u@\\H \\W \\@]\\$ "
-#1623639691
-sudo export PS1="[\\u@\\H \\W \\@]\\$ "
-#1623639704
-'\e[x;ym $PS1 \e[m'
-#1623639712
-$ export PS1="\e[0;31m[\u@\h \W]\$ \e[m "
-#1623639719
-sudo  export PS1="\e[0;31m[\u@\h \W]\$ \e[m "
-#1623639742
-export PS1="\[\e[32m\][\[\e[m\]\[\e[31m\]\u\[\e[m\]\[\e[33m\]@\[\e[m\]\[\e[32m\]\h\[\e[m\]:\[\e[36m\]\w\[\e[m\]\[\e[32m\]]\[\e[m\]\[\e[32;47m\]\\$\[\e[m\] "
-#1623639781
-# cd /usr/ports/sysutils/most/
-#1623639789
-# make install clean
-#1623639795
-# pkg_add -r most
-#1623639803
-# pkg install most
-#1623639816
-$ sudo apt-get install most
-#1623639822
- sudo apt-get install most
-#1623639870
-export PAGER="/usr/bin/most -s"
-#1623639879
-echo 'export PAGER="most"' >> ~/.bashrc
-#1623639890
-man date
-#1623640002
-sudo apt-get upgrade/remove openssl
-#1623640020
-ssl
-#1623640031
-sql
-#1623640056
-sudo apt install parallel
-#1623677139
-ls
-#1623677141
-ls =al
-#1623677148
-ls -al
-#1623677163
-cd .py
-#1623677166
-cd .pythhonfiles/
-#1623677170
-ls -al
-#1623677174
-cd datatypes/
-#1623677182
-ls
-#1623677295
-mkdir set.py list.py dictionary.py
-#1623677298
-ls
-#1623677322
-ls -altrh
-#1623677332
-ls -altrhh
-#1623677341
-0.
-#1623677356
-clear
-#1623677520
-ls
-#1623677542
-mv -r set.py set
-#1623677548
-mv set.py set
-#1623677559
-ls
-#1623677572
-mv dictionary.py dictionary
-#1623677670
-ls
-#1623677685
-mv list.py to list
-#1623677691
-mv list.py  list
-#1623677724
-mv typefunction.py  typefunction
-#1623677753
-ls
-#1623678274
-cd LIST
-#1623678277
-li
-#1623678292
-cd list/
-#1623678297
-ls
-#1623678339
-touch list.py nestedlist.py
-#1623678342
-ls
-#1623678403
-nano list.py 
-#1623747926
-ls
-#1623747932
-ls -al
-#1623747941
-cd .pythhonfiles/
-#1623747943
-ls
-#1623747947
-ls -al
-#1623747953
-cd datatypes/
-#1623747956
-ls
-#1623747970
-nano list
-#1623747975
-ls
-#1623747982
-cd list/
-#1623747984
-ls
-#1623748002
-nano list.py 
-#1623834351
-ls -al
-#1623852842
-ls -al
-#1623852865
-cd .pythonfiles/
-#1623852869
-ls -al
-#1623852885
-mkdir functions
-#1623852894
-ls -al
-#1623855583
-cd variables/
-#1623855585
-ls
-#1623855589
-cd ..
-#1623855595
-cd functions/
-#1623855607
-ls -al
-#1623996674
-ls -alk
-#1623996694
-cd .pythonfiles/
-#1623996696
-ls -0al
-#1623996700
-ls -al
-#1623996704
-cd functions/
-#1623996707
-ls -al
-#1623996722
-nano function_syntax.py 
-#1623996768
-python3 function_syntax.py 
-#1623996788
-nano return.py 
-#1623996844
-python3 return.py 
-#1623996856
-nano return.py 
-#1624082526
-sudo systemctl isolate graphical
-#1624082536
-ls
-#1624082552
-./ shell.sh 
-#1624082568
-source  shell.sh 
-#1624083264
-ls -al
-#1624083268
-cd .pythonfiles/
-#1624083270
-ls -al
-#1624083276
-cd operators/
-#1624083277
-ls
-#1624083283
-ls -alt
-#1624084355
-cd \
-#1624084362
-cd
-#1624084367
-cd ~
-#1624084371
-cd /
-#1624084383
-cd .py
-#1624084393
 cd .python
 #1624084403
 ld -al
@@ -997,3 +425,575 @@ nano Arithmetic_operators.py
 nano Assignment_Operators.py 
 #1624281287
 python3  Assignment_Operators.py 
+#1624331173
+ls -al
+#1624331180
+cd .pythonfiles/
+#1624331182
+ls -al
+#1624331190
+cd loops/
+#1624331192
+ls -al
+#1624331195
+cd forloop/
+#1624331198
+ls -al
+#1624331237
+touch rangefunction.py
+#1624331239
+ls -al
+#1624331253
+nano rangefunction.py 
+#1624331457
+python3 rangefunction.py 
+#1624331469
+nano rangefunction.py 
+#1624331481
+python3 rangefunction.py 
+#1624331491
+python3 rangefunction.py 
+#1624331501
+nano rangefunction.py 
+#1624331562
+python3 rangefunction.py 
+#1624331571
+nano rangefunction.py 
+#1624331589
+python3 rangefunction.py 
+#1624331604
+nano rangefunction.py 
+#1624332053
+python3 rangefunction.py 
+#1624332061
+nano rangefunction.py 
+#1624332087
+python3 rangefunction.py 
+#1624332092
+nano rangefunction.py 
+#1624332105
+python3 rangefunction.py 
+#1624332238
+cleare
+#1624332242
+clear
+#1624332256
+python3
+#1624332374
+cd
+#1624332379
+pwd
+#1624332395
+cd .pythonfiles/
+#1624332397
+ls -al
+#1624332404
+cd basic/
+#1624332410
+ls -al
+#1624332431
+touch lenfunction.py
+#1624332433
+ls -al
+#1624332439
+nanao lenfunction.py 
+#1624332445
+nano lenfunction.py 
+#1624332545
+python3 lenfunction.py 
+#1624332548
+python3 lenfunction.py 
+#1624332551
+nano lenfunction.py 
+#1624332572
+python3 lenfunction.py 
+#1624332573
+python3 lenfunction.py 
+#1624332574
+python3 lenfunction.py 
+#1624332575
+python3 lenfunction.py 
+#1624332575
+python3 lenfunction.py 
+#1624332580
+nano lenfunction.py 
+#1624332675
+python3 lenfunction.py 
+#1624332681
+clear
+#1624332686
+cd ..
+#1624332705
+nano lenfunction.py 
+#1624332724
+python3  lenfunction.py 
+#1624332738
+ls -al
+#1624332746
+cd basic/
+#1624332753
+nano lenfunction.py 
+#1624332766
+python3  lenfunction.py 
+#1624332801
+cd ..
+#1624332806
+cd loops/
+#1624332809
+cdf
+#1624332814
+cd forloop/
+#1624332816
+ls -al
+#1624332844
+nano list_in_for_loop.py 
+#1624332941
+python3  list_in_for_loop.py 
+#1624332965
+nano list_in_for_loop.py 
+#1624333111
+nano list_in_for_loop.py 
+#1624333141
+nano list_in_for_loop.py 
+#1624333180
+ls -al
+#1624333194
+nano sum_of_given_list.py 
+#1624333243
+python3 sum_of_given_list.py 
+#1624333256
+nano sum_of_given_list.py 
+#1624333277
+python3 sum_of_given_list.py 
+#1624333283
+nano sum_of_given_list.py 
+#1624333312
+python3 sum_of_given_list.py 
+#1624333319
+nano sum_of_given_list.py 
+#1624333342
+python3 sum_of_given_list.py 
+#1624333348
+nano sum_of_given_list.py 
+#1624333410
+python3 sum_of_given_list.py 
+#1624333432
+touch table.py
+#1624333437
+nano table.py 
+#1624333619
+python3 table.py 
+#1624333629
+nano table.py 
+#1624333648
+python3 table.py 
+#1624333660
+python3 table.py 
+#1624333734
+ls -al
+#1624333751
+nano print_even_number_using_step_size_in_range.py 
+#1624333786
+cd .. ..
+#1624333794
+cd ..
+#1624333797
+cd ..
+#1624333806
+cd  cd basic/
+#1624333813
+cd basic/
+#1624333825
+ls -al
+#1624333833
+nano lenfunction.py 
+#1624333846
+cd ..
+#1624333849
+ls -al
+#1624333855
+cd loops/
+#1624333857
+
+#1624333862
+cd forloop/
+#1624333865
+ls -al
+#1624333880
+nano range
+#1624333894
+rm -rf range
+#1624333924
+nano range_with_lenth_of_list.py 
+#1624333939
+nano rangefunction.py 
+#1624333959
+nano print_even_number_using_step_size_in_range.py 
+#1624333981
+
+#1624334002
+nano rangefunction.py 
+#1624334009
+nano print_even_number_using_step_size_in_range.py 
+#1624334051
+rm -rf print_even_number_using_step_size_in_range.py 
+#1624334054
+ls -al
+#1624334073
+cd ..
+#1624334089
+cd forloop/
+#1624334107
+mkdir nested_for_loop
+#1624334111
+ls -0al
+#1624334115
+tree
+#1624334123
+cd
+#1624334126
+tree
+#1624334134
+tree -a
+#1624334166
+ls -al
+#1624334178
+cd .pythonfiles/
+#1624334181
+cd loops/
+#1624334186
+cd forloop/
+#1624334191
+cd nested_for_loop/
+#1624334336
+touch printing_stars_increasing_1_by_row.py
+#1624335854
+grep obj
+#1624335878
+tree -a |grep obj
+#1624335888
+cd 
+#1624335892
+tree -a |grep obj
+#1624335904
+ls -al
+#1624335944
+cd algorithms/
+#1624335981
+mkdir sorting_algoeithm  searching_algorithms
+#1624335984
+ls -al
+#1624336077
+cd sorting_algoeithm/
+#1624336403
+mkfir  insertion_sort  heap_sort  selection_sort  merge_sort quick_sort  counting_sort bubble_sort  radix_sort bucket_sort
+#1624336419
+mkdir  insertion_sort  heap_sort  selection_sort  merge_sort quick_sort  counting_sort bubble_sort  radix_sort bucket_sort
+#1624336422
+ls -al
+#1624336444
+cd bubble_sort/
+#1624336492
+touch bubble_sort.py  bubble_sort.c  bubble_sort.cpp
+#1624336494
+ls -al
+#1624336695
+cd ..
+#1624336704
+cd ..
+#1624336709
+tree -a
+#1624336742
+ls -al
+#1624336748
+cd searching_algorithms/
+#1624336819
+mkdir linear_search  binary_search depth_first_search breadth_first search
+#1624336823
+ls -al
+#1624336836
+rm search/
+#1624336842
+rm -rf  search/
+#1624336886
+cd binary_search/
+#1624336888
+ls -al
+#1624336926
+touch binary_search.c binary_search.cpp binary_search.py
+#1624336930
+ls -al
+#1624336932
+cd 
+#1624336940
+cd algorithms/
+#1624336946
+cd searching_algorithms/
+#1624336963
+cd linear_search/
+#1624337015
+touch linear_search.c linear_search.cpp linear_search.py
+#1624337020
+cd ..
+#1624337028
+cd depth_first_search/
+#1624337069
+depth_first_search.c depth_first_search.cpp depth_first_search.py
+#1624337085
+touch depth_first_search.c depth_first_search.cpp depth_first_search.py
+#1624337089
+cd ..
+#1624337140
+mv breadth_first  breadth_first_search
+#1624337148
+\cd breadth_first_search/
+#1624337178
+touch breadth_first_search.c
+#1624337196
+touch breadth_first_search.cpp breadth_first_search.py 
+#1624337202
+ls -al
+#1624337217
+\cd ..
+#1624337218
+cd ..
+#1624337224
+tree 
+#1624337239
+cd
+#1624337244
+nano shell.sh 
+#1624337279
+source  shell.sh 
+#1624337312
+source  shell.sh 
+#1624380748
+clear
+#1624380752
+cd .pythonfiles/
+#1624380756
+cd loops/
+#1624380759
+cd forloop/
+#1624380767
+ls -a
+#1624380770
+ls -al
+#1624380812
+touch applications_of_for_loop.py
+#1624380824
+nano applications_of_for_loop.py
+#1624380887
+python3  applications_of_for_loop.py
+#1624380923
+nano applications_of_for_loop.py
+#1624381195
+python3  applications_of_for_loop.py
+#1624381203
+nano applications_of_for_loop.py
+#1624381500
+python3  applications_of_for_loop.py
+#1624381809
+nano rangefunction.py 
+#1624381826
+nano applications_of_for_loop.py
+#1624382008
+nano rangefunction.py 
+#1624382024
+nano applications_of_for_loop.py
+#1624382391
+touch stars.py
+#1624382403
+nano stars.py 
+#1624382610
+python3 stars.py 
+#1624382625
+nano stars.py 
+#1624382690
+python3 stars.py 
+#1624382747
+nano applications_of_for_loop.py
+#1624382761
+nano stars.py 
+#1624382780
+python3 stars.py 
+#1624382817
+nano stars.py 
+#1624383089
+python3 stars.py 
+#1624383095
+nano stars.py 
+#1624383119
+python3 stars.py 
+#1624383124
+nano stars.py 
+#1624383139
+python3 stars.py 
+#1624383144
+nano stars.py 
+#1624383160
+python3 stars.py 
+#1624383167
+nano stars.py 
+#1624383186
+python3 stars.py 
+#1624383236
+nano stars.py 
+#1624383301
+python3 stars.py 
+#1624383317
+nano stars.py 
+#1624383437
+python3 stars.py 
+#1624383443
+nano stars.py 
+#1624383462
+python3 stars.py 
+#1624383473
+nano stars.py 
+#1624383502
+python3 stars.py 
+#1624383506
+nano stars.py 
+#1624383554
+python3 stars.py 
+#1624383584
+nano stars.py 
+#1624383611
+python3 stars.py 
+#1624383621
+clear
+#1624384397
+cd
+#1624384402
+ks -al
+#1624384407
+ls -al
+#1624384427
+source shell.sh 
+#1624451094
+ls -al
+#1624451102
+cd .pythonfiles/
+#1624451104
+ls -al
+#1624451113
+cd s
+#1624451119
+cd strings/
+#1624451122
+ls -al
+#1624451148
+touch applications_of_strings.py
+#1624451157
+nano applications_of_strings.py
+#1624451876
+python3  applications_of_strings.py
+#1624451882
+nano applications_of_strings.py
+#1624451900
+python3  applications_of_strings.py
+#1624451917
+nano applications_of_strings.py
+#1624451973
+python3  applications_of_strings.py
+#1624452260
+nano applications_of_strings.py
+#1624452504
+python3  applications_of_strings.py
+#1624452575
+ls -al
+#1624452628
+touch reassigning_strings.py
+#1624453792
+python3  applications_of_strings.py
+#1624453795
+ls -al
+#1624453797
+clear
+#1624453884
+python3  applications_of_strings.py
+#1624454408
+nano applications_of_strings.py
+#1624454488
+python3  applications_of_strings.py
+#1624466074
+touch deleting_string.py
+#1624466107
+touch  string_operators.py
+#1624466131
+nano deleting_string.py 
+#1624466228
+python3  deleting_string.py 
+#1624466232
+nano deleting_string.py 
+#1624466265
+python3  deleting_string.py 
+#1624466276
+nano deleting_string.py 
+#1624466374
+python3  deleting_string.py 
+#1624466681
+ls -al
+#1624466691
+anno string_operators.py 
+#1624466704
+nano  string_operators.py 
+#1624466766
+python3   string_operators.py 
+#1624467424
+ls -al
+#1624467453
+ls -al
+#1624504927
+ls -al
+#1624504929
+cd .pythonfiles/
+#1624504939
+cd strings/
+#1624504942
+ls -al
+#1624504975
+touch string_without_white_spaces.py
+#1624504999
+nano string_without_white_spaces.py 
+#1624505126
+python3  string_without_white_spaces.py 
+#1624505238
+mv string_without_white_spaces.py  string_without_white_spaces_at-the beginning _and_the_end.py 
+#1624505257
+mv string_without_white_spaces.py  string_without_white_spaces_at-the_beginning _and_the_end.py 
+#1624505265
+mv string_without_white_spaces.py  string_without_white_spaces_at-the_beginning_and_the_end.py 
+#1624505269
+ls -al
+#1624505289
+nano string_without_white_spaces_at-the_beginning_and_the_end.py 
+#1624505319
+python3  string_without_white_spaces_at-the_beginning_and_the_end.py 
+#1624505494
+nano converting_string_to_upper_case.py
+#1624505552
+python3  converting_string_to_upper_case.py
+#1624505614
+nano converting_string_to_lower_case.py 
+#1624505660
+python3 converting_string_to_lower_case.py 
+#1624505881
+nano Replacing_one_character_to_another_character.py
+#1624505942
+python3 Replacing_one_character_to_another_character.py
+#1624505947
+nano Replacing_one_character_to_another_character.py
+#1624505987
+python3 Replacing_one_character_to_another_character.py
+#1624505992
+nano Replacing_one_character_to_another_character.py
+#1624506004
+python3 Replacing_one_character_to_another_character.py
+#1624506286
+nano Insert the correct syntax to add a placeholder for the age parameter.
+#1624506388
+nano Insert_the_correct_syntax_to_add_a_placeholder_for_the_age_parameter.py
+#1624506471
+python3  Insert_the_correct_syntax_to_add_a_placeholder_for_the_age_parameter.py

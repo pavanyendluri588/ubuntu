@@ -1,23 +1,3 @@
-cd .python
-#1624084403
-ld -al
-#1624084406
-ls -al
-#1624084414
-cd 
-#1624084417
-ls
-#1624084428
-home
-#1624084443
-cd bin
-#1624084455
-cd home
-#1624084472
-pwd
-#1624084478
-cd
-#1624084481
 ls -al
 #1624084484
 /
@@ -997,3 +977,23 @@ nano Insert the correct syntax to add a placeholder for the age parameter.
 nano Insert_the_correct_syntax_to_add_a_placeholder_for_the_age_parameter.py
 #1624506471
 python3  Insert_the_correct_syntax_to_add_a_placeholder_for_the_age_parameter.py
+#1624550359
+tree
+#1624550371
+tree -a
+#1624550440
+nano .shell.sh 
+#1624550461
+source .shell.sh 
+#1624605189
+sudo apt install sqlite3
+#1624605222
+ls -al
+#1624605233
+mysql
+#1624605239
+sqllite3
+#1624605374
+ sqlite3 --version
+#1624605412
+exit

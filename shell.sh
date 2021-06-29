@@ -7,7 +7,7 @@ sudo git status
 echo  "git status command is successfully executed"
 echo  "==================================================================================================="
 echo  "creating upload"
-sudo git  commit  -m  "24/6/2021 upload"
+sudo git  commit  -m  "29/6/2021 upload"
 echo   "upload is successfully created"
 echo  "===================================================================================================="
 echo  "uploading into github"
